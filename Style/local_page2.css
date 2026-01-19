@@ -201,7 +201,7 @@ body {
 
 .grad-bg {
     /* background-color: none; */
-    background-image: url(../images/gradient-17-light.png);
+    background-image: url(../Images/gradient-17-light.png);
 }
 
 #third-sec button {
@@ -354,7 +354,7 @@ body {
 
 .plans-highlight {
     max-width: 388px;
-    background-image: url(../images/price-bg.png);
+    background-image: url(../Images/price-bg.png);
     border-radius: 20px;
     max-width: 390px;
     padding: 10px;

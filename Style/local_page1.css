@@ -395,7 +395,7 @@ hr {
 }
 
 .plans-highlight {
-    background-image: url(../images/price-bg-dark.png);
+    background-image: url(../Images/price-bg-dark.png);
     border-radius: 20px;
     max-width: 388px;
     padding: 10px;
@@ -420,7 +420,7 @@ hr {
 }
 
 #seventh-sec {
-    background-image: url(../images/integration-bg.png);
+    background-image: url(../Images/integration-bg.png);
     /* transform: scale(2); */
     background-size: cover;
     background-repeat: no-repeat;
